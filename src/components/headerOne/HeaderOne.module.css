@@ -52,14 +52,12 @@
 
 .li__silka{
     font-family: var(--familyOne);
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 21px;
-/* identical to box height */
-
-letter-spacing: 0.1em;
-text-transform: uppercase;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
 
 color: #FFFFFF;
 }
@@ -75,13 +73,13 @@ color: #FFFFFF;
 
 .li__tel{
     font-family: var(--familyOne);
-font-style: normal;
-font-weight: 400;
-font-size: 17px;
-line-height: 26px;
-text-align: right;
-letter-spacing: 0.1em;
-text-transform: uppercase;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    text-align: right;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
 
 color: #FFFFFF;
 }
@@ -94,18 +92,17 @@ color: #FFFFFF;
     line-height: 45px;
     letter-spacing: 0.1em;
     text-transform: uppercase;
-    
     color: #FFFFFF;
     
 }
 
 .textbox__second{
     font-family: var(--familyOne);
-font-style: normal;
-font-weight: 400;
-font-size: 100px;
-line-height: 151px;
-text-transform: uppercase;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 151px;
+    text-transform: uppercase;
 
 color: #FFFFFF;
 }
@@ -116,15 +113,14 @@ color: #FFFFFF;
     background-color: transparent;
     border: 1px solid #FFFFFF;
     font-family: var(--familyOne);
-font-style: normal;
-font-weight: 400;
-font-size: 17px;
-line-height: 26px;
-text-align: center;
-letter-spacing: 0.1em;
-text-transform: uppercase;
-
-color: #FFFFFF;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
 }
 
 .textbox__btn:hover{
