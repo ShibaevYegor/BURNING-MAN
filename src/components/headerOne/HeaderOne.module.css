@@ -21,7 +21,7 @@
 }
 
 .HeaderOne__container {
-    max-width: 1010px;
+    max-width: 1170px;
     max-height: 900px;
     margin: 0 auto;
 }
@@ -43,6 +43,11 @@
 
 .ulOne__li {
     list-style-type: none;
+}
+
+.logo__logoimg:hover{
+    transform: rotate(360deg);
+    transition: all 1s linear;
 }
 
 .li__silka{
@@ -120,4 +125,9 @@ letter-spacing: 0.1em;
 text-transform: uppercase;
 
 color: #FFFFFF;
+}
+
+.textbox__btn:hover{
+    background-color: rgba(135, 132, 132, 0.644);
+    transition: all 0.5s linear;
 }

@@ -1,0 +1,95 @@
+.MainOne {
+    width: 100%;
+    height: 900px;
+    padding-top: 115px;
+}
+
+:root{
+    --familyOne: "Anton";
+    --familyTwo: "Open Sans";
+}
+
+.MainOne__container {
+    max-width: 1170px;
+    max-height: 900px;
+    margin: 0 auto;
+}
+
+.container__title {
+    margin-bottom: 60px;
+    font-family: var(--familyOne);
+    font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 75px;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.twobox__text {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 70px;
+}
+
+.text__one {
+    width: 570px;
+}
+
+.text__two {
+    width: 565px;
+}
+
+.one__title {
+    margin-bottom: 20px;
+    font-family: var(--familyOne);
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 38px;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.one__lorem {
+    font-family: var(--familyTwo);
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: justify;
+
+color: #000000;
+}
+
+.two__title {
+    margin-bottom: 20px;
+    font-family: var(--familyOne);
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 38px;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.two__lorem {
+    font-family: var(--familyTwo);
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: justify;
+
+color: #000000;
+}
+
+.twobox__img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
